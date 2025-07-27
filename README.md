@@ -20,7 +20,6 @@ Key insights derived from the data:
 
 * Transactions with `gender = 'U'` were always genuine.
 * Merchant category `es_leisure` exhibited high fraud concentration.
-* **Mismatched ZIP codes** between customer and merchant were common in frauds.
 * Certain **high-value transactions** strongly correlated with fraud labels.
 
 ## ⚙️ Preprocessing Pipeline
